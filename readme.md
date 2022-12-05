@@ -1,3 +1,3 @@
 # Vagrant setup for node.js
 
-[https://github.com/ynwd/ynwd.github.io](https://github.com/ynwd/ynwd.github.io)
+[https://ynwd.github.io/posts/vagrant-setup-for-nodejs/](https://ynwd.github.io/posts/vagrant-setup-for-nodejs/)
